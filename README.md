@@ -7,34 +7,7 @@ follow below:
 
 to connect to their site through you site, is simple
 copy and paste this 
-<form id="paymentForm">
-            <script src="https://js.paystack.co/v1/inline.js"></script>
-            <div class="form-group">
-                <label for="email">Email Address</label>
-                <input type="email" id="email-address" required />
-                <br>
-            </div>
-            <div class="form-group">
-                <label for="amount">Amount</label>
-                <input type="tel" id="amount" required />
-                <br>
-            </div>
-            <div class="form-group">
-                <label for="first-name">First Name</label>
-                <input type="text" id="first-name" />
-                <br>
-            </div>
-            <div class="form-group">
-                <label for="last-name">Last Name</label>
-                <input type="text" id="last-name" />
-                <br>
-            </div>
-            <div class="form-submit">
-                <button type="submit"> Pay </button>
-            </div>
-        </form>
-       <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
-       <script src="/Scripts/paystackJS.js"></script>
+
 
   ---------------------------------------------------------------------------------------------------------------------
   create a javascript file and name it paystackJs.js
